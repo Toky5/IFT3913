@@ -4,7 +4,7 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [concept] Les bugs logiciels
 - Nom: Abdelmouhcine Messaad
-- Présentation: https://canva.link/0rwrl0j8xagyiih
+- Présentation: https://docs.google.com/presentation/d/15i-sx91aMV_vlZu8S4WhX3Pubxbc3_oU/edit?usp=sharing&ouid=111175454797284805771&rtpof=true&sd=true
 
 [concept] Oracle de test             
 - Nom: Isabelle Guillard
@@ -16,11 +16,11 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [concept] Les différents niveaux de test logiciel   
 - Nom: Udeme-Obong Samuel
-- Présentation: 
+- Présentation: https://udeme-sml.github.io/presentation3913/
 
 [concept] Tests paramétrés
 - Nom: Ayman Kaissi 
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1nijE8A2XIU15dbzc7t-RJjvXz1S42bE-z3vlGL7s5Q0/edit?usp=sharing
 
 [concept] Anti patrons pour les test unitaires          
 - Nom: Olivier Larue
@@ -40,8 +40,8 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 
 [demo] Test unitaire en Rust     
 - Nom: Pax Wa Bulalu Kazadi
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1gqkD9vLZO0A6apZdaHlsyo0eSAMgxKE2YXXHpQx00pE/edit?usp=sharing
 
 [demo] Test unitaire pour Node.js 
 - Nom: Thierno Diallo
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1cR1ACTvYZzk6zTbUunMrLzuT59BSaUkvB-uTe7cuRwI/edit?usp=sharing
