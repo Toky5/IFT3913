@@ -9,11 +9,11 @@ Pour faire une présentation sur le test et sécurité, choisissez un des sujets
 
 [concept] Code lint
 - Nom: Zhexin Guo
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1yo_55shdtwz1sYHMjW1OFBav1RqC0piY/edit?usp=drivesdk&ouid=100930134911017535828&rtpof=true&sd=true
 
 [concept] la revue de code
 - Nom: Maysaa Khanfoudi
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1PPenfBLqwzZNuLn1TK2T0Y97iLRku2CdeJ1sh-eEwh4/edit?usp=sharing
 
 [concept] Mesure de complexité du code
 - Nom: Aymane Rachidi
@@ -29,11 +29,11 @@ Pour faire une présentation sur le test et sécurité, choisissez un des sujets
 
 [demo] [AFL](https://github.com/AFLplusplus/AFLplusplus)
 - Nom: Émerick Poulin
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1f3qeE-gYIqYM4S2KPMfSepy_dR96NWeFfmjv-kZvj3c/edit?usp=sharing
 
 [demo] [findbugs](https://github.com/findbugsproject/findbugs) pour le test statique en Java
 - Nom: Reine Guinguiere
-- Présentation: 
+- Présentation: https://docs.google.com/presentation/d/1Lx4BRr11i6epnsPz9KYJC2MaXAFiIsSA/edit?usp=drive_link&ouid=115938698296947681852&rtpof=true&sd=true
 
 [demo] [semgrep](https://github.com/semgrep/semgrep) pour l'analyse statique
 - Nom: Toky Erick Rabenantoandro
